@@ -2,4 +2,4 @@
 ============================
 
 <h3>TP5- validaciones y busqueda JSF</h3>
-	proyect: Eclipse Indigo
+	IDE:Eclipse Indigo
